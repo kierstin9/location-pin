@@ -1,6 +1,6 @@
 # pin-it
 
-Pin-It is an experiment from the Locale Scout team in an attempt at creating a useful interplay between off-chain and on-chain activity and utility for location scouts.
+Pin-It is an experiment from the Locale Scout [http://www.localescout.com] team in an attempt at creating a useful interplay between off-chain and on-chain activity and utility for location scouts.
 
 By using various smart contract invocations to create a location pin, we hope to create an ownable but crowd-sourced way of creating a centralized and shared location management repository for the film and entertainment industry.
 
